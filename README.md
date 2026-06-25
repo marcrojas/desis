@@ -4,7 +4,7 @@ Aplicación web desarrollada en **PHP**, **JavaScript nativo**, **CSS nativo** y
 
 ## Tecnologías utilizadas
 
-* PHP 8+
+* PHP 8.2
 * JavaScript (Vanilla JS)
 * HTML5
 * CSS3
@@ -13,7 +13,7 @@ Aplicación web desarrollada en **PHP**, **JavaScript nativo**, **CSS nativo** y
 
 ## Requisitos
 
-* PHP 8.0 o superior
+* PHP 8.2 o superior
 * MySQL 5.7 o superior (o MariaDB compatible)
 * Servidor web (Apache recomendado)
 * Laragon, XAMPP, WAMP o similar
